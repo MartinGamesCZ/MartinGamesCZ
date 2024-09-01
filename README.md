@@ -3,8 +3,9 @@ class MartinGamesCZ extends Developer {
   name = "Martin Petr",
   nickname = "MartinGamesCZ",
   languages = ["TypeScript", "JavaScript", "Rust"],
-  frameworks = ["React", "Next.JS", "Nest.JS"],
-  projects = ["www.remardev.com", "www.birdiemail.social"]
+  frameworks_and_libraries = ["React", "Next.JS", "Nest.JS"],
+  projects = ["www.remardev.com", "www.birdiemail.social"],
+  tools = ["Zed", "VS Code", "GitKraken", "BirdieMail"]
 
   constructor() {
     super()
