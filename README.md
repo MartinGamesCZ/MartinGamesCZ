@@ -1,14 +1,16 @@
-```js
-class MartinGamesCZ extends Developer {
-  name = "Martin Petr",
-  nickname = "MartinGamesCZ",
-  languages = ["TypeScript", "JavaScript", "Rust"],
-  frameworks_and_libraries = ["React", "Next.JS", "Nest.JS"],
-  projects = ["www.remardev.com", "BirdieMail", "Newtonium"],
-  tools = ["Zed", "VS Code", "GitKraken", "BirdieMail"]
+```bash
+$ whoami
+Martin Petr
 
-  constructor() {
-    super()
-  }
-}
+$ uptime
+up 17 years
+
+$ cat /etc/languages
+TypeScript (+ JavaScript), Rust
+
+$ curl http://mpdev.tech/frameworks
+React, NextJS, NestJS, Newtonium
+
+$ ping employed.at
+ping: employed.at: Name or service not known
 ```
