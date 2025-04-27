@@ -6,7 +6,7 @@ $ uptime
 up 17 years
 
 $ cat /etc/languages
-TypeScript (+ JavaScript), Rust
+TypeScript (+ JavaScript), Rust, exploring Go
 
 $ curl http://mpdev.tech/frameworks
 React, NextJS, NestJS, Newtonium
