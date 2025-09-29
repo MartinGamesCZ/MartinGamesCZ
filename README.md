@@ -8,8 +8,8 @@ up 18 years
 $ cat /etc/languages
 TypeScript (+ JavaScript), Rust, exploring Go
 
-$ curl http://mpdev.tech/frameworks
-React, NextJS, NestJS, Newtonium
+$ curl https://www.martinpetr.dev/frameworks
+React, NextJS, NestJS
 
 $ ping employed.at
 PING employed.at (::1) 56 data bytes
