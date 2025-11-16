@@ -14,4 +14,14 @@ React, NextJS, NestJS
 $ ping employed.at
 PING employed.at (::1) 56 data bytes
 64 bytes from oscillator.cz (Oscillator Labs): icmp_seq=1 ttl=114 time=20.2 ms
+
+$ cowsay Open to work
+ ______________
+< Open to work >
+ --------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
