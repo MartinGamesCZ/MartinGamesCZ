@@ -6,10 +6,10 @@ $ uptime
 up 18 years
 
 $ cat /etc/languages
-TypeScript (+ JavaScript), Rust, exploring Go
+TypeScript (+ JavaScript), Go, Python
 
-$ curl https://www.martinpetr.dev/frameworks
-React, NextJS, NestJS
+$ curl https://www.martinpetr.dev/skills
+React, NextJS, NestJS, DevOps (Docker, Kubernetes), Azure functions, S3
 
 $ ping employed.at
 PING employed.at (::1) 56 data bytes
